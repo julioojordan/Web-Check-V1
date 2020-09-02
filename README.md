@@ -1,4 +1,5 @@
 # Web-Check-V1
+<h3> Intern at Diskominfo Jateng #1 </h3>
 Web-based Apps for pinging other website so that we know the connection status of other website by only inputing their domains
 <p>I'm using Codeigniter3 framework for developing thin apps </p>
 <p>What to do to run the program:</p>
